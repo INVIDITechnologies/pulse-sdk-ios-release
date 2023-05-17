@@ -1,0 +1,15 @@
+DerivedData
+Products
+reports/*
+*.xcuserdatad/
+*.xccheckout
+.DS_Store
+build/*
+.idea
+ObjectiveC.gcno
+*.gcno
+# appledoc output
+docs
+
+# developer's private/local/custom/awesome build script
+local-build.sh
