@@ -1,6 +1,0 @@
-framework module Pulse_tvOS {
-  umbrella header "Pulse.h"
-
-  export *
-  module * { export * }
-}
